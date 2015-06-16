@@ -1,0 +1,9 @@
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\bin\Debug\GrocerySstore.exe.config
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\bin\Debug\GrocerySstore.exe
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\bin\Debug\GrocerySstore.pdb
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\obj\Debug\GrocerySstore.csprojResolveAssemblyReference.cache
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\obj\Debug\GrocerySstore.Form1.resources
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\obj\Debug\GrocerySstore.Properties.Resources.resources
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\obj\Debug\GrocerySstore.csproj.GenerateResource.Cache
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\obj\Debug\GrocerySstore.exe
+C:\Users\vine\Desktop\GrocerySstore\GrocerySstore\obj\Debug\GrocerySstore.pdb
